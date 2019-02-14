@@ -1,0 +1,2 @@
+# multi-channel-ADC-with-ACM9226
+This small project implementation uses FPGA (Development Board Model: AC606) and high-speed ADC module to achieve multi-channel ADC data sampling and output data using parallel port. I will then upload a project that receives data and processes it on the Raspberry Pi 3B+. This is my first FPGA project for individuals to collect data during the experiment, and there are still many imperfections in the code.
